@@ -1,0 +1,23 @@
+Use the 'l' key to load a map file. Use 's' to save it (this will overwrite the file you loaded).
+Use 'x', 'y' and 'z' to switch axes.
+'+' and '-' move the "slicing plane" (layer).
+Use the arrow keys to change team and brush type.
+Click and draw to draw using the selected brush and team.
+'m' will toggle a menu showing new map creation options.
+'f' will flood fill under the cursor with the selected brush. NOTE: No "undo" command exists yet, so be careful with this!
+
+--
+
+Menu commands
+
+--
+
+Create blank map - Creates a new totally empty map.
+
+Create flat map  - Creates a new map filled with dirt up to ground level.
+
+Save copy...     - Saves a copy of the current map and loads it for editing.
+
+///
+
+Comments and suggestions will be appreciated! Send them to dolzsan@gmail.com
