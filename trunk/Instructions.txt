@@ -4,9 +4,10 @@ Use 'x', 'y' and 'z' to switch axes.
 Use the arrow keys (or mouseWheel) to change team and brush type.
 Click and draw to draw using the selected brush and team.
 'm' will toggle a menu showing new map creation options.
+'b' will show the levelborder
 'f' will flood fill under the cursor with the selected brush.
-'u' will undo the last step.
-'i' will redo last undo (be careful because it only redo´s undos!).
+'u' will undo the last step (max 10 steps).
+'i' will redo last undo.
 'PageUp' will increase Brushsize.
 'PageDown' will decrease Brushsize.
 
