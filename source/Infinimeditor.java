@@ -1,17 +1,17 @@
 import processing.core.*; 
-import processing.xml.*; 
+//import processing.xml.*; 
 
 import java.awt.event.*; 
 
-import java.applet.*; 
-import java.awt.*; 
-import java.awt.image.*; 
+//import java.applet.*; 
+//import java.awt.*; 
+//import java.awt.image.*; 
 import java.io.*; 
-import java.net.*; 
-import java.text.*; 
-import java.util.*; 
-import java.util.zip.*; 
-import java.util.regex.*; 
+//import java.net.*; 
+//import java.text.*; 
+//import java.util.*; 
+//import java.util.zip.*; 
+//import java.util.regex.*; 
 
 public class Infinimeditor extends PApplet {
 
